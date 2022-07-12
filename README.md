@@ -13,7 +13,7 @@ Eclipse
 Eclipse Plugins: Maven and Cucumber
 Installation In order to start using the project you need to create your own Fork on Github and then clone the project.
 
-![image](https://user-images.githubusercontent.com/18717702/118224507-3a7a4200-b47b-11eb-812a-ea3cc434f5b3.png)
+![image](https://user-images.githubusercontent.com/47081871/178610372-896dcdc3-7d5f-4492-8b42-00a438e60473.png)
 
 ├───target
 
